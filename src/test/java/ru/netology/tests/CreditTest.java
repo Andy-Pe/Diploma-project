@@ -263,7 +263,7 @@ public class CreditTest {
         var creditPage = page.creditPage();
         var cardInfo = DataGenerator.generateDataWithParametrizedLengthCardHolderName(22);
         creditPage.insertValidCreditCardDataForBank(cardInfo);
-        creditPage.checkWarningUnderCardHolderField("Имя не должно быть длинее 21 символа");
+        creditPage.checkWarningUnderCardHolderField("Имя и фамилия не должны быть длиннее 21 символа");
     }
 
     @Test
