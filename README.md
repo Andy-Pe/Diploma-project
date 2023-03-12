@@ -10,6 +10,8 @@
 
 #### [Отчётные документы по итогам тестирования](https://github.com/Andy-Pe/Diploma-project/blob/main/Documentation/Report.md)
 
+#### [Отчётные документы по итогам автоматизации](https://github.com/Andy-Pe/Diploma-project/blob/main/Documentation/Summary.md)
+
 ### Процедура запуска автотестов
 1. Для запуска авто-тестов нужно заранее установить и запустить [Docker Desktop](https://github.com/netology-code/aqa-homeworks/blob/master/docker/installation.md) на локальной машине
 
